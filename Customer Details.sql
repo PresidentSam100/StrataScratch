@@ -1,3 +1,9 @@
+/*
+ID 9891
+Problem Name: Customer Details
+Link: https://platform.stratascratch.com/coding/9891-customer-details?code_type=1
+Tool(s) Used: PostgreSQL
+*/
 SELECT 
 customers.first_name,
 customers.last_name, 
