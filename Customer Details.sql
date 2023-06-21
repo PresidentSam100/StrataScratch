@@ -1,7 +1,7 @@
 /*
 ID 9891
 Problem Name: Customer Details
-Link: https://platform.stratascratch.com/coding/9891-customer-details?code_type=1
+Link: https://platform.stratascratch.com/coding/9891-customer-details
 Tool(s) Used: PostgreSQL
 */
 SELECT 
