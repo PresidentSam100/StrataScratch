@@ -5,7 +5,7 @@ Link: https://platform.stratascratch.com/coding/9845-find-the-number-of-employee
 Tool(s) Used: PostgreSQL
 */
 SELECT
-COUNT(*)
+COUNT(*) AS n_admins
 FROM
 worker
 WHERE
