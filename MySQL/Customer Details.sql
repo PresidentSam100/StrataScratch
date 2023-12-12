@@ -1,3 +1,9 @@
+/*
+ID 9891
+Problem Name: Customer Details
+Link: https://platform.stratascratch.com/coding/9891-customer-details?code_type=3
+Tool(s) Used: MySQL
+*/
 SELECT
     c.first_name,
     c.last_name,
