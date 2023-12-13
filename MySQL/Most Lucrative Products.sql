@@ -1,3 +1,9 @@
+/*
+ID 2119
+Problem Name: Most Lucrative Products
+Link: https://platform.stratascratch.com/coding/2119-most-lucrative-products?code_type=3
+Tool(s) Used: MySQL
+*/
 SELECT
     product_id,
     SUM(cost_in_dollars * units_sold) AS revenue
