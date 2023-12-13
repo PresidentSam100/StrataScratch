@@ -1,0 +1,12 @@
+SELECT
+    product_id,
+    SUM(cost_in_dollars * units_sold) AS revenue
+FROM
+    online_orders
+WHERE
+    MONTH(date) BETWEEN 1 AND 6
+GROUP BY
+    product_id
+ORDER BY
+    revenue DESC
+LIMIT 5;
