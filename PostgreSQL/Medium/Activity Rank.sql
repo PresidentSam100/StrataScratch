@@ -16,5 +16,4 @@ FROM
     google_gmail_emails
 GROUP BY
     from_user
-ORDER BY
-    3;
+ORDER BY 3;
