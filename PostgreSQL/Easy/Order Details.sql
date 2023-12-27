@@ -3,6 +3,7 @@ ID 9913
 Problem Name: Order Details
 Link: https://platform.stratascratch.com/coding/9913-order-details?code_type=1
 Tool(s) Used: PostgreSQL
+Difficulty: Easy
 */
 SELECT
 c.first_name,

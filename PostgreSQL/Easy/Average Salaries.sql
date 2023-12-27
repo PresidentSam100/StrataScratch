@@ -3,6 +3,7 @@ ID 9917
 Problem Name: Average Salaries
 Link: https://platform.stratascratch.com/coding/9917-average-salaries?code_type=1
 Tool(s) Used: PostgreSQL
+Difficulty: Easy
 */
 SELECT
 department,

@@ -3,6 +3,7 @@ ID 10061
 Problem Name: Popularity of Hack
 Link: https://platform.stratascratch.com/coding/10061-popularity-of-hack?code_type=1
 Tool(s) Used: PostgreSQL
+Difficulty: Easy
 */
 SELECT
 fe.location,

@@ -3,6 +3,7 @@ ID 9622
 Problem Name: Number Of Bathrooms And Bedrooms
 Link: https://platform.stratascratch.com/coding/9622-number-of-bathrooms-and-bedrooms?code_type=1
 Tool(s) Used: PostgreSQL
+Difficulty: Easy
 */
 SELECT
 city,

@@ -3,6 +3,7 @@ ID 9653
 Problem Name: Count the number of user events performed by MacBookPro users
 Link: https://platform.stratascratch.com/coding/9653-count-the-number-of-user-events-performed-by-macbookpro-users?code_type=1
 Tool(s) Used: PostgreSQL
+Difficulty: Easy
 */
 SELECT
 event_name,

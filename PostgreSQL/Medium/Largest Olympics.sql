@@ -3,6 +3,7 @@ ID 9942
 Problem Name: Largest Olympics
 Link: https://platform.stratascratch.com/coding/9942-largest-olympics?code_type=1
 Tool(s) Used: PostgreSQL
+Difficulty: Medium
 */
 SELECT
     games,

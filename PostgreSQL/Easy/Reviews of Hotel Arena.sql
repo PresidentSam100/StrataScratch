@@ -3,6 +3,7 @@ ID 10166
 Problem Name: Reviews of Hotel Arena
 Link: https://platform.stratascratch.com/coding/10166-reviews-of-hotel-arena?code_type=1
 Tool(s) Used: PostgreSQL
+Difficulty: Easy
 */
 SELECT
 hotel_name,

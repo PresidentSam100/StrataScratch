@@ -3,6 +3,7 @@ ID 9915
 Problem Name: Highest Cost Orders
 Link: https://platform.stratascratch.com/coding/9915-highest-cost-orders?code_type=1
 Tool(s) Used: PostgreSQL
+Difficulty: Medium
 */
 SELECT
     c.first_name,

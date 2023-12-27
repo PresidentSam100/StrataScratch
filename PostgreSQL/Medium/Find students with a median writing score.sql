@@ -3,6 +3,7 @@ ID 9610
 Problem Name: Find students with a median writing score
 Link: https://platform.stratascratch.com/coding/9610-find-students-with-a-median-writing-score?code_type=1
 Tool(s) Used: PostgreSQL
+Difficulty: Medium
 */
 SELECT
     id

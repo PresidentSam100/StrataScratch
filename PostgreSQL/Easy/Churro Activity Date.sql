@@ -3,6 +3,7 @@ ID 9688
 Problem Name: Churro Activity Date
 Link: https://platform.stratascratch.com/coding/9688-churro-activity-date?code_type=1
 Tool(s) Used: PostgreSQL
+Difficulty: Easy
 */
 SELECT
 activity_date,

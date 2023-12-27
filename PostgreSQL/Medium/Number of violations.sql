@@ -3,6 +3,7 @@ ID 9728
 Problem Name: Number of violations
 Link: https://platform.stratascratch.com/coding/9728-inspections-that-resulted-in-violations?code_type=1
 Tool(s) Used: PostgreSQL
+Difficulty: Medium
 */
 SELECT
     EXTRACT(YEAR FROM inspection_date) AS year,

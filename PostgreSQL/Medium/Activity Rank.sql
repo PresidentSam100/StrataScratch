@@ -3,6 +3,7 @@ ID 10351
 Problem Name: Activity Rank
 Link: https://platform.stratascratch.com/coding/10351-activity-rank?code_type=1
 Tool(s) Used: PostgreSQL
+Difficulty: Medium
 */
 SELECT
     from_user,

@@ -3,6 +3,7 @@ ID 9991
 Problem Name: Top Ranked Songs
 Link: https://platform.stratascratch.com/coding/9991-top-ranked-songs?code_type=1
 Tool(s) Used: PostgreSQL
+Difficulty: Medium
 */
 SELECT
     trackname,

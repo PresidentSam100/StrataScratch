@@ -3,6 +3,7 @@ ID 10308
 Problem Name: Salaries Differences
 Link: https://platform.stratascratch.com/coding/10308-salaries-differences?code_type=1
 Tool(s) Used: PostgreSQL
+Difficulty: Easy
 */
 SELECT
 (

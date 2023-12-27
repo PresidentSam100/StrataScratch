@@ -3,6 +3,7 @@ ID 2119
 Problem Name: Most Lucrative Products
 Link: https://platform.stratascratch.com/coding/2119-most-lucrative-products?code_type=1
 Tool(s) Used: PostgreSQL
+Difficulty: Easy
 */
 SELECT 
 product_id,

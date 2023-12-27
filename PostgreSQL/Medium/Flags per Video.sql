@@ -3,6 +3,7 @@ ID 2102
 Problem Name: Flags per Video
 Link: https://platform.stratascratch.com/coding/2102-flags-per-video?code_type=1
 Tool(s) Used: PostgreSQL
+Difficulty: Medium
 */
 SELECT
     video_id,

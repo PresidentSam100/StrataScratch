@@ -3,6 +3,7 @@ ID 10176
 Problem Name: Bikes Last Used
 Link: https://platform.stratascratch.com/coding/10176-bikes-last-used?code_type=1
 Tool(s) Used: PostgreSQL
+Difficulty: Easy
 */
 SELECT
 bike_number,

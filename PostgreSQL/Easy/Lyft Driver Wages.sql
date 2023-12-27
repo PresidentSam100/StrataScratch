@@ -3,6 +3,7 @@ ID 10003
 Problem Name: Lyft Driver Wages
 Link: https://platform.stratascratch.com/coding/10003-lyft-driver-wages?code_type=1
 Tool(s) Used: PostgreSQL
+Difficulty: Easy
 */
 SELECT
 *
