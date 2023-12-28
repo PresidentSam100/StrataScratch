@@ -3,6 +3,7 @@ ID 10308
 Problem Name: Salaries Differences
 Link: https://platform.stratascratch.com/coding/10308-salaries-differences?code_type=2
 Tool(s) Used: Python
+Difficulty: Easy
 """
 
 # Import your libraries
